@@ -23,7 +23,7 @@ Copy code
 
 docker build -t ali889/my-webiste:02 .
 
-![picture](screenshots/Screenshot 2026-04-17 035300.png)
+![picture](screenshots/popsy.PNG)
 
 Step 4:
 
